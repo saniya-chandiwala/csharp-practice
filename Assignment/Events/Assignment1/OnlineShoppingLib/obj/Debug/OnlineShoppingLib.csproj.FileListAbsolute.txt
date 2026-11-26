@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Aug_27\Assignment1\OnlineShoppingLib\bin\Debug\OnlineShoppingLib.dll
+D:\Saniya\C#\Assignment\Aug_27\Assignment1\OnlineShoppingLib\bin\Debug\OnlineShoppingLib.pdb
+D:\Saniya\C#\Assignment\Aug_27\Assignment1\OnlineShoppingLib\obj\Debug\OnlineShoppingLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Aug_27\Assignment1\OnlineShoppingLib\obj\Debug\OnlineShoppingLib.dll
+D:\Saniya\C#\Assignment\Aug_27\Assignment1\OnlineShoppingLib\obj\Debug\OnlineShoppingLib.pdb

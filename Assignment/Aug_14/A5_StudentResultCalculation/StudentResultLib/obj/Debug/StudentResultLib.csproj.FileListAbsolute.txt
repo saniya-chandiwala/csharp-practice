@@ -1,0 +1,10 @@
+D:\Saniya\C#\Assignment\Aug_14\A4_StudentResultCalculation\StudentResultLib\bin\Debug\StudentResultLib.dll
+D:\Saniya\C#\Assignment\Aug_14\A4_StudentResultCalculation\StudentResultLib\bin\Debug\StudentResultLib.pdb
+D:\Saniya\C#\Assignment\Aug_14\A4_StudentResultCalculation\StudentResultLib\obj\Debug\StudentResultLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Aug_14\A4_StudentResultCalculation\StudentResultLib\obj\Debug\StudentResultLib.dll
+D:\Saniya\C#\Assignment\Aug_14\A4_StudentResultCalculation\StudentResultLib\obj\Debug\StudentResultLib.pdb
+D:\Saniya\C#\Assignment\Aug_14\A5_StudentResultCalculation\StudentResultLib\bin\Debug\StudentResultLib.dll
+D:\Saniya\C#\Assignment\Aug_14\A5_StudentResultCalculation\StudentResultLib\bin\Debug\StudentResultLib.pdb
+D:\Saniya\C#\Assignment\Aug_14\A5_StudentResultCalculation\StudentResultLib\obj\Debug\StudentResultLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Aug_14\A5_StudentResultCalculation\StudentResultLib\obj\Debug\StudentResultLib.dll
+D:\Saniya\C#\Assignment\Aug_14\A5_StudentResultCalculation\StudentResultLib\obj\Debug\StudentResultLib.pdb

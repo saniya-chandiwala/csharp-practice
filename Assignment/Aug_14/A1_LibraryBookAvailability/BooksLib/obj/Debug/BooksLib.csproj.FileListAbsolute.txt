@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Aug_14\A1_LibraryBookAvailability\BooksLib\bin\Debug\BooksLib.dll
+D:\Saniya\C#\Assignment\Aug_14\A1_LibraryBookAvailability\BooksLib\bin\Debug\BooksLib.pdb
+D:\Saniya\C#\Assignment\Aug_14\A1_LibraryBookAvailability\BooksLib\obj\Debug\BooksLib.dll
+D:\Saniya\C#\Assignment\Aug_14\A1_LibraryBookAvailability\BooksLib\obj\Debug\BooksLib.pdb
+D:\Saniya\C#\Assignment\Aug_14\A1_LibraryBookAvailability\BooksLib\obj\Debug\BooksLib.csprojResolveAssemblyReference.cache

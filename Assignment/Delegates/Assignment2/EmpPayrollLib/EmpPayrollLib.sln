@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpPayrollLib", "EmpPayrollLib.csproj", "{01564683-9E64-4823-8470-BCA9E3F1108C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "EmpPayrollSite", "..\EmpPayrollSite\", "{5FF05B03-EFBE-4CAE-A246-0D45249CC9BF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59140"
+		Debug.AspNetCompiler.PhysicalPath = "..\EmpPayrollSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59140\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59140"
+		Release.AspNetCompiler.PhysicalPath = "..\EmpPayrollSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59140\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59140"
+		SlnRelativePath = "..\EmpPayrollSite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01564683-9E64-4823-8470-BCA9E3F1108C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01564683-9E64-4823-8470-BCA9E3F1108C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01564683-9E64-4823-8470-BCA9E3F1108C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01564683-9E64-4823-8470-BCA9E3F1108C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF05B03-EFBE-4CAE-A246-0D45249CC9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF05B03-EFBE-4CAE-A246-0D45249CC9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF05B03-EFBE-4CAE-A246-0D45249CC9BF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF05B03-EFBE-4CAE-A246-0D45249CC9BF}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

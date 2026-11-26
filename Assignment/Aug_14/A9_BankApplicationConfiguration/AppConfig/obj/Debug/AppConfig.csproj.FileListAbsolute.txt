@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Aug_14\A9_BankApplicationConfiguration\AppConfig\obj\Debug\AppConfig.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Aug_14\A9_BankApplicationConfiguration\AppConfig\bin\Debug\AppConfig.dll
+D:\Saniya\C#\Assignment\Aug_14\A9_BankApplicationConfiguration\AppConfig\bin\Debug\AppConfig.pdb
+D:\Saniya\C#\Assignment\Aug_14\A9_BankApplicationConfiguration\AppConfig\obj\Debug\AppConfig.dll
+D:\Saniya\C#\Assignment\Aug_14\A9_BankApplicationConfiguration\AppConfig\obj\Debug\AppConfig.pdb

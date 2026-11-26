@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Aug_12\A6_CustRegSys\CustRegLib\bin\Debug\CustRegLib.dll
+D:\Saniya\C#\Assignment\Aug_12\A6_CustRegSys\CustRegLib\bin\Debug\CustRegLib.pdb
+D:\Saniya\C#\Assignment\Aug_12\A6_CustRegSys\CustRegLib\obj\Debug\CustRegLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Aug_12\A6_CustRegSys\CustRegLib\obj\Debug\CustRegLib.dll
+D:\Saniya\C#\Assignment\Aug_12\A6_CustRegSys\CustRegLib\obj\Debug\CustRegLib.pdb

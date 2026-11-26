@@ -1,0 +1,4 @@
+D:\Saniya\C#\Assignment\Day1\Assignment1\StudentLib\bin\Debug\StudentLib.dll
+D:\Saniya\C#\Assignment\Day1\Assignment1\StudentLib\bin\Debug\StudentLib.pdb
+D:\Saniya\C#\Assignment\Day1\Assignment1\StudentLib\obj\Debug\StudentLib.dll
+D:\Saniya\C#\Assignment\Day1\Assignment1\StudentLib\obj\Debug\StudentLib.pdb

@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\LINQ\Assignment6\ProdsByCatLib\bin\Debug\ProdsByCatLib.dll
+D:\Saniya\C#\Assignment\LINQ\Assignment6\ProdsByCatLib\bin\Debug\ProdsByCatLib.pdb
+D:\Saniya\C#\Assignment\LINQ\Assignment6\ProdsByCatLib\obj\Debug\ProdsByCatLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\LINQ\Assignment6\ProdsByCatLib\obj\Debug\ProdsByCatLib.dll
+D:\Saniya\C#\Assignment\LINQ\Assignment6\ProdsByCatLib\obj\Debug\ProdsByCatLib.pdb

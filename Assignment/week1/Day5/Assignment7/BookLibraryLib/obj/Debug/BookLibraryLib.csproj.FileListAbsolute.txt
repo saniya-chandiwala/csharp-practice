@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Day5\Assignment7\BookLibraryLib\bin\Debug\BookLibraryLib.dll
+D:\Saniya\C#\Assignment\Day5\Assignment7\BookLibraryLib\bin\Debug\BookLibraryLib.pdb
+D:\Saniya\C#\Assignment\Day5\Assignment7\BookLibraryLib\obj\Debug\BookLibraryLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Day5\Assignment7\BookLibraryLib\obj\Debug\BookLibraryLib.dll
+D:\Saniya\C#\Assignment\Day5\Assignment7\BookLibraryLib\obj\Debug\BookLibraryLib.pdb

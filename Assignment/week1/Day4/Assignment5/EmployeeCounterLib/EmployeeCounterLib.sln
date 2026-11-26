@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeCounterLib", "EmployeeCounterLib.csproj", "{923E1905-E37E-40B0-83AD-E80FB25CD0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923E1905-E37E-40B0-83AD-E80FB25CD0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923E1905-E37E-40B0-83AD-E80FB25CD0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923E1905-E37E-40B0-83AD-E80FB25CD0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923E1905-E37E-40B0-83AD-E80FB25CD0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

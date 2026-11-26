@@ -1,0 +1,5 @@
+D:\Saniya\C#\Exam\Q3_EmpSalaryManagementSystem\SalMngmntLib\bin\Debug\SalMngmntLib.dll
+D:\Saniya\C#\Exam\Q3_EmpSalaryManagementSystem\SalMngmntLib\bin\Debug\SalMngmntLib.pdb
+D:\Saniya\C#\Exam\Q3_EmpSalaryManagementSystem\SalMngmntLib\obj\Debug\SalMngmntLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Exam\Q3_EmpSalaryManagementSystem\SalMngmntLib\obj\Debug\SalMngmntLib.dll
+D:\Saniya\C#\Exam\Q3_EmpSalaryManagementSystem\SalMngmntLib\obj\Debug\SalMngmntLib.pdb

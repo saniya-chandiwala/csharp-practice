@@ -1,0 +1,4 @@
+D:\Saniya\C#\Assignment\Inheritance\Assignment1\Assignment1\EMS\bin\Debug\EMS.dll
+D:\Saniya\C#\Assignment\Inheritance\Assignment1\Assignment1\EMS\bin\Debug\EMS.pdb
+D:\Saniya\C#\Assignment\Inheritance\Assignment1\Assignment1\EMS\obj\Debug\EMS.dll
+D:\Saniya\C#\Assignment\Inheritance\Assignment1\Assignment1\EMS\obj\Debug\EMS.pdb

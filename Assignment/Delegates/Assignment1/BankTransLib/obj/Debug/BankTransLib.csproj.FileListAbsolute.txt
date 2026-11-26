@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Delegates\Assignment1\BankTransLib\bin\Debug\BankTransLib.dll
+D:\Saniya\C#\Assignment\Delegates\Assignment1\BankTransLib\bin\Debug\BankTransLib.pdb
+D:\Saniya\C#\Assignment\Delegates\Assignment1\BankTransLib\obj\Debug\BankTransLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Delegates\Assignment1\BankTransLib\obj\Debug\BankTransLib.dll
+D:\Saniya\C#\Assignment\Delegates\Assignment1\BankTransLib\obj\Debug\BankTransLib.pdb

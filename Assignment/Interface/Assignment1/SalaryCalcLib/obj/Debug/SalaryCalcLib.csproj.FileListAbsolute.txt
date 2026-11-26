@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Interface\Assignment1\SalaryCalcLib\bin\Debug\SalaryCalcLib.dll
+D:\Saniya\C#\Assignment\Interface\Assignment1\SalaryCalcLib\bin\Debug\SalaryCalcLib.pdb
+D:\Saniya\C#\Assignment\Interface\Assignment1\SalaryCalcLib\obj\Debug\SalaryCalcLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Interface\Assignment1\SalaryCalcLib\obj\Debug\SalaryCalcLib.dll
+D:\Saniya\C#\Assignment\Interface\Assignment1\SalaryCalcLib\obj\Debug\SalaryCalcLib.pdb

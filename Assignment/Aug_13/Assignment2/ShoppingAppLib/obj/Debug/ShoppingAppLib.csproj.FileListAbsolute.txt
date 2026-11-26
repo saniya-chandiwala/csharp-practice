@@ -1,0 +1,4 @@
+D:\Saniya\C#\Assignment\Aug_13\Assignment2\ShoppingAppLib\bin\Debug\ShoppingAppLib.dll
+D:\Saniya\C#\Assignment\Aug_13\Assignment2\ShoppingAppLib\bin\Debug\ShoppingAppLib.pdb
+D:\Saniya\C#\Assignment\Aug_13\Assignment2\ShoppingAppLib\obj\Debug\ShoppingAppLib.dll
+D:\Saniya\C#\Assignment\Aug_13\Assignment2\ShoppingAppLib\obj\Debug\ShoppingAppLib.pdb

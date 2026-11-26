@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Aug_26\A4_HashSet\EmailRegLib\bin\Debug\EmailRegLib.dll
+D:\Saniya\C#\Assignment\Aug_26\A4_HashSet\EmailRegLib\bin\Debug\EmailRegLib.pdb
+D:\Saniya\C#\Assignment\Aug_26\A4_HashSet\EmailRegLib\obj\Debug\EmailRegLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Aug_26\A4_HashSet\EmailRegLib\obj\Debug\EmailRegLib.dll
+D:\Saniya\C#\Assignment\Aug_26\A4_HashSet\EmailRegLib\obj\Debug\EmailRegLib.pdb

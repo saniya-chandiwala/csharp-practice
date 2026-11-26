@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Interface\Assignment5\MultiInterfaceLib\bin\Debug\MultiInterfaceLib.dll
+D:\Saniya\C#\Assignment\Interface\Assignment5\MultiInterfaceLib\bin\Debug\MultiInterfaceLib.pdb
+D:\Saniya\C#\Assignment\Interface\Assignment5\MultiInterfaceLib\obj\Debug\MultiInterfaceLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Interface\Assignment5\MultiInterfaceLib\obj\Debug\MultiInterfaceLib.dll
+D:\Saniya\C#\Assignment\Interface\Assignment5\MultiInterfaceLib\obj\Debug\MultiInterfaceLib.pdb

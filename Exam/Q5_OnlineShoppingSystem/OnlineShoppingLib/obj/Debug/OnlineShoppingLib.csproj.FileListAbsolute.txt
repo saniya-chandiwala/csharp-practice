@@ -1,0 +1,5 @@
+D:\Saniya\C#\Exam\Q5_OnlineShoppingSystem\OnlineShoppingLib\bin\Debug\OnlineShoppingLib.dll
+D:\Saniya\C#\Exam\Q5_OnlineShoppingSystem\OnlineShoppingLib\bin\Debug\OnlineShoppingLib.pdb
+D:\Saniya\C#\Exam\Q5_OnlineShoppingSystem\OnlineShoppingLib\obj\Debug\OnlineShoppingLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Exam\Q5_OnlineShoppingSystem\OnlineShoppingLib\obj\Debug\OnlineShoppingLib.dll
+D:\Saniya\C#\Exam\Q5_OnlineShoppingSystem\OnlineShoppingLib\obj\Debug\OnlineShoppingLib.pdb

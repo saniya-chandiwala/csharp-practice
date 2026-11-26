@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Inheritance\Assignment8\HospitalSys\bin\Debug\HospitalSys.dll
+D:\Saniya\C#\Assignment\Inheritance\Assignment8\HospitalSys\bin\Debug\HospitalSys.pdb
+D:\Saniya\C#\Assignment\Inheritance\Assignment8\HospitalSys\obj\Debug\HospitalSys.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Inheritance\Assignment8\HospitalSys\obj\Debug\HospitalSys.dll
+D:\Saniya\C#\Assignment\Inheritance\Assignment8\HospitalSys\obj\Debug\HospitalSys.pdb

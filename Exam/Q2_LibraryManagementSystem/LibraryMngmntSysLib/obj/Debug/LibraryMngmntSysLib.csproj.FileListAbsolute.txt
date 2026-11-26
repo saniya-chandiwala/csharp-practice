@@ -1,0 +1,5 @@
+D:\Saniya\C#\Exam\Q2_LibraryManagementSystem\LibraryMngmntSysLib\bin\Debug\LibraryMngmntSysLib.dll
+D:\Saniya\C#\Exam\Q2_LibraryManagementSystem\LibraryMngmntSysLib\bin\Debug\LibraryMngmntSysLib.pdb
+D:\Saniya\C#\Exam\Q2_LibraryManagementSystem\LibraryMngmntSysLib\obj\Debug\LibraryMngmntSysLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Exam\Q2_LibraryManagementSystem\LibraryMngmntSysLib\obj\Debug\LibraryMngmntSysLib.dll
+D:\Saniya\C#\Exam\Q2_LibraryManagementSystem\LibraryMngmntSysLib\obj\Debug\LibraryMngmntSysLib.pdb

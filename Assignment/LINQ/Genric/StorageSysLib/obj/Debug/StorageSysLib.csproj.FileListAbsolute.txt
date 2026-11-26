@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\LINQ\Genric\StorageSysLib\bin\Debug\StorageSysLib.dll
+D:\Saniya\C#\Assignment\LINQ\Genric\StorageSysLib\bin\Debug\StorageSysLib.pdb
+D:\Saniya\C#\Assignment\LINQ\Genric\StorageSysLib\obj\Debug\StorageSysLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\LINQ\Genric\StorageSysLib\obj\Debug\StorageSysLib.dll
+D:\Saniya\C#\Assignment\LINQ\Genric\StorageSysLib\obj\Debug\StorageSysLib.pdb

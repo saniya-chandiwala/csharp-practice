@@ -1,0 +1,5 @@
+D:\Saniya\C#\Assignment\Delegates\Assignment5\BankEventsLib\obj\Debug\BankEventsLib.csprojResolveAssemblyReference.cache
+D:\Saniya\C#\Assignment\Delegates\Assignment5\BankEventsLib\bin\Debug\BankEventsLib.dll
+D:\Saniya\C#\Assignment\Delegates\Assignment5\BankEventsLib\bin\Debug\BankEventsLib.pdb
+D:\Saniya\C#\Assignment\Delegates\Assignment5\BankEventsLib\obj\Debug\BankEventsLib.dll
+D:\Saniya\C#\Assignment\Delegates\Assignment5\BankEventsLib\obj\Debug\BankEventsLib.pdb
